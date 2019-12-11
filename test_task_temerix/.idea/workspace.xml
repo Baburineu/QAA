@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74e86c2f-be0e-41f5-a107-6022d8d0fb73" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UcOQALEGomtfAEXvTtUlqIcL3w" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\2. Training Courses\Программирование\[ITVDN]\[ITVDN] QA профессия\QA Automation\Projects\test_task_temerix\src\main\resources\drv" />
+      <recent name="W:\2. Training Courses\Программирование\[ITVDN]\[ITVDN] QA профессия\QA Automation\Projects\test_task_temerix\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Kulibin.test_1">
+    <configuration name="Kulibin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test_task_temerix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.kulibin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.kulibin" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.kulibin.Kulibin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kulibin.goToMenuDrill" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test_task_temerix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.kulibin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.kulibin" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.kulibin.Kulibin" />
+      <option name="METHOD_NAME" value="goToMenuDrill" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kulibin.navToSideMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test_task_temerix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.kulibin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.kulibin" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.kulibin.Kulibin" />
+      <option name="METHOD_NAME" value="navToSideMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kulibin.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test_task_temerix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.kulibin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.kulibin" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.kulibin.Kulibin" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kulibin.test_1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test_task_temerix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.kulibin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.kulibin" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.kulibin.Kulibin" />
+      <option name="METHOD_NAME" value="test_1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Kulibin.test_1" />
+        <item itemvalue="TestNG.Kulibin.search" />
+        <item itemvalue="TestNG.Kulibin.navToSideMenu" />
+        <item itemvalue="TestNG.Kulibin" />
+        <item itemvalue="TestNG.Kulibin.goToMenuDrill" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74e86c2f-be0e-41f5-a107-6022d8d0fb73" name="Default Changelist" comment="" />
+      <created>1575652397552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575652397552</updated>
+      <workItem from="1575652402292" duration="2869000" />
+      <workItem from="1575735515122" duration="14680000" />
+      <workItem from="1575801889019" duration="10072000" />
+      <workItem from="1575913344245" duration="8229000" />
+      <workItem from="1575969641616" duration="22456000" />
+      <workItem from="1575996956238" duration="3777000" />
+      <workItem from="1576054053871" duration="1298000" />
+      <workItem from="1576056511091" duration="6199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
